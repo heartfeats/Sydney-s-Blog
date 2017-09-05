@@ -1,0 +1,13 @@
+h1 {
+  color: #5991ff;
+}
+
+h2 {
+  color: grey;
+}
+body {
+  text-align: center;
+  font-family: 'Avenir Next',sans-serif;
+  color: grey;
+  list-style-position: inside;
+}
